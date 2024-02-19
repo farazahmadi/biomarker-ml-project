@@ -1,4 +1,6 @@
 *.html
 *.xlsx
 *.csv
-/Data
+/.ipynb_checkpoints/
+./Data/
+./reports/
